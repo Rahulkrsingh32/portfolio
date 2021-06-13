@@ -17,6 +17,15 @@ export const projects = [
     visit: 'https://rahulkrsingh32.github.io/mychatapp/',
     id: 1,
   },
+  {
+    title: 'Farm Website',
+    description: "It is the Basic Demo website built with React, CSS, Bootstrap. this website is built for a company that is i agriculture line. I made this website during my internship as my first Demo website",
+    image: '/images/3.png',
+    tags: ['React', 'CSS', 'Bootstrap'],
+    source: 'https://github.com/Rahulkrsingh32/website.git',
+    visit: 'https://agrofarm.netlify.app/',
+    id: 1,
+  },
 ];
 
 export const TimeLineData = [
