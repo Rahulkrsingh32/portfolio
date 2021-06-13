@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
+import { Span } from '../Header/HeaderStyles';
 
 const Hero = () => (
   <Section row nopadding >
@@ -15,7 +16,7 @@ const Hero = () => (
       <SectionText>
         Hi! I'm RAHUL KR. SINGH and I'm a student Persuing Btech degree in Computer Science branch from ITER, SOA UNIVERSITY, BHUBNESWAR.
       </SectionText>
-      <Button ><Link href="#about" >Learn More</Link></Button>
+      <Button ><Link href="#about" ><Span>Learn more</Span></Link></Button>
     </LeftSection>
   </Section>
 );
