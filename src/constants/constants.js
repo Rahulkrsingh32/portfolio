@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Covid-19 Tracker',
     description: "I've made front-end for this Web Application using React.js and styled it with MeterialUI and baisc CSS. This Application keeps track of daily cases of COVID-19 detected, total deaths and total recoveries all over the world. This also shows the data in graphical format. App can also show data for some perticualr country.",
-      image: '/images/1.png', //keep your img at public/images
+      image: '/images/1.png', 
       tags: ['React.Js', 'CSS', 'API', 'material-UI'],
     source: 'https://github.com/Rahulkrsingh32/covid-19',
     visit: 'https://rahulkrsingh32.github.io/covid-19/',
@@ -34,6 +34,15 @@ export const projects = [
     source: 'https://github.com/Rahulkrsingh32/coolwebsite.git',
     visit: 'https://coolwebsite.netlify.app/',
     id: 3,
+  },
+  {
+    title: 'Live News WebApp With Assistant',
+    description: "It is a news Application built with React js, where I have integrated ALAN talking assistant. You just have to tell alan what type of news you would like to hear,  he will find you the best result",
+    image: '/images/5.png',
+    tags: ['React', 'CSS', 'ALAN AI'],
+    source: 'https://github.com/Rahulkrsingh32/NewsApplicationAI',
+    visit: 'https://newsassistantlive.netlify.app/',
+    id: 4,
   },
 ];
 
