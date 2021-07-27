@@ -27,8 +27,8 @@ const Projects = () => ( //Add your projects to file '../../constants/constants
               </TagList>
             </div>
             <UtilityList>
-              <ExternalLinks href={visit} >Visit</ExternalLinks>
-              <ExternalLinks href={source} >SourceCode</ExternalLinks>
+              <ExternalLinks target="_blank" href={visit} >Visit</ExternalLinks>
+              <ExternalLinks target="_blank" href={source} >SourceCode</ExternalLinks>
             </UtilityList>
           </TitleContent>
         </BlogCard>
