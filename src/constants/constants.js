@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/6.png',
     tags: ['React', 'CSS', 'Rapid API', 'Chart js'],
     source: 'https://github.com/Rahulkrsingh32/cryptoverse',
-    visit: 'https://cryptoverse-rahul.netlify.app/',
+    visit: 'https://cryptoinfo-rahul.netlify.app/',
     id: 0,
   },
   {
