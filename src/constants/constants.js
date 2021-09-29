@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Crytoverse Web App',
-    description: "This application gives us depp knowledge about most popular cryptocurrencies in the world. It tells us about latest news and even daily change in market caps of different crypto currencies.",
+    description: "This application gives us deep knowledge about most popular cryptocurrencies in the world. It tells us about latest news and even daily change in market caps of different crypto currencies.",
     image: '/images/6.png',
     tags: ['React', 'CSS', 'Rapid API', 'Chart js'],
     source: 'https://github.com/Rahulkrsingh32/cryptoverse',
