@@ -9,13 +9,22 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Video Chat App',
+    description: "This the Real-time video Chat Application using React.Js for the front-end. I've used Socket.io for peer to peer connection. Using this you can share your unique generated ID with other people to connect with you for video chats.",
+    image: '/images/7.png',
+    tags: ['React', 'CSS', 'Socket io', 'webRTC'],
+    source: '',
+    visit: 'https://video-chat-rahul.netlify.app/',
+    id: 1,
+  },
+  {
     title: 'Covid-19 Tracker',
     description: "I've made front-end for this Web Application using React.js and styled it with MeterialUI and baisc CSS. This Application keeps track of daily cases of COVID-19 detected, total deaths and total recoveries all over the world. This also shows the data in graphical format. App can also show data for some perticualr country.",
       image: '/images/1.png', 
       tags: ['React.Js', 'CSS', 'API', 'material-UI'],
     source: 'https://github.com/Rahulkrsingh32/covid-19',
     visit: 'https://rahulkrsingh32.github.io/covid-19/',
-    id: 1,
+    id: 2,
   },
   {
     title: 'MyChat Web-App',
@@ -24,7 +33,7 @@ export const projects = [
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://github.com/Rahulkrsingh32/mychatapp',
     visit: 'https://rahulkrsingh32.github.io/mychatapp/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Farm Website',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['React', 'CSS', 'Bootstrap'],
     source: 'https://github.com/Rahulkrsingh32/website.git',
     visit: 'https://agrofarm.netlify.app/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Demo Website with Animation',
@@ -42,7 +51,7 @@ export const projects = [
     tags: ['React', 'CSS', 'Bootstrap'],
     source: 'https://github.com/Rahulkrsingh32/coolwebsite.git',
     visit: 'https://coolwebsite.netlify.app/',
-    id: 4,
+    id: 5,
   },
   {
     title: 'Live News WebApp With Assistant',
@@ -51,7 +60,7 @@ export const projects = [
     tags: ['React', 'CSS', 'ALAN AI'],
     source: 'https://github.com/Rahulkrsingh32/NewsApplicationAI',
     visit: 'https://newsassistantlive.netlify.app/',
-    id: 5,
+    id: 6,
   },
   
 ];
