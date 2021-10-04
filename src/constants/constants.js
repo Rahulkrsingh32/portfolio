@@ -72,3 +72,9 @@ export const TimeLineData = [
   { year: 2020, text: 'Done internship, that helped me in my coading skills', },
   { year: 2021, text: 'Ongoing... ', }
 ];
+
+export const Image = [
+  {
+    image: '/images/logo.png',
+  }
+]
