@@ -70,7 +70,9 @@ export const TimeLineData = [
   { year: 2018, text: 'Passed Std XII (CBSE) and Took Admission in ITER, SOA University, Bhubneswar to persue B.tech in CS', },
   { year: 2019, text: 'First case of COVID-19 found, and also I Found my interst in web-Development and started learning it', },
   { year: 2020, text: 'Done internship, that helped me in my coading skills', },
-  { year: 2021, text: 'Ongoing... ', }
+  { year: 2021, text: 'Did internship with Agroezy Pvt. Ltd. , and learned new skill set in back end as well as front end like Angular, Spring. ', },
+  { year: 2022, text: 'Got graduated and got bTech degree. Also, got placement offers from several companies like Wipro, CapGemini, Virtusa, through on campus placement drives in my college. Finally joined Virtusa Pvt. Ltd.', },
+  { year: 2023, text: 'On Going...', },
 ];
 
 export const Image = [
