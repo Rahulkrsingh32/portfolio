@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Crytoverse Web App',
-    description: "This application gives us deep knowledge about most popular cryptocurrencies in the world. It tells us about latest news and even daily change in market caps of different crypto currencies.",
+    title: 'CodeX a ChatGPT',
+    description: "This application is a chatGPT that can answer all your questions in any field. It can write codes for you, essays, solve mathematics questions, etc. This application uses OpenAi chatGPT api to get the output.",
     image: '/images/6.png',
-    tags: ['React', 'CSS', 'Rapid API', 'Chart js'],
-    source: 'https://github.com/Rahulkrsingh32/cryptoverse',
-    visit: 'https://cryptoinfo-rahul.netlify.app/',
+    tags: ['Vite', 'CSS', 'OpenAi API'],
+    source: 'https://github.com/Rahulkrsingh32/Chat-gpt',
+    visit: 'https://chat-gpt-sandy.vercel.app/',
     id: 0,
   },
   {
@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Covid-19 Tracker',
-    description: "I've made front-end for this Web Application using React.js and styled it with MeterialUI and baisc CSS. This Application keeps track of daily cases of COVID-19 detected, total deaths and total recoveries all over the world. This also shows the data in graphical format. App can also show data for some perticualr country.",
+    title: 'Sea-Senora a Boat Rental Apllication',
+    description: "This is a web application where people can rent Boats of different kinds. This application front-end is developed with Angular and backend works with RESTful Web Services which is developed using Spring Boot. ",
       image: '/images/1.png', 
-      tags: ['React.Js', 'CSS', 'API', 'material-UI'],
-    source: 'https://github.com/Rahulkrsingh32/covid-19',
-    visit: 'https://rahulkrsingh32.github.io/covid-19/',
+      tags: ['Angular⬇️', 'CSS', 'Bootstrap 5', 'Spring Boot⬇️ '],
+    source: 'https://github.com/Rahulkrsingh32/sea-senora-angular',
+    visit: 'https://github.com/Rahulkrsingh32/sea-senora-springboot',
     id: 2,
   },
   {
