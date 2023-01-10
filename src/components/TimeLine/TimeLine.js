@@ -48,7 +48,7 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
       I'm Rahul Kumar Singh born and raised in Jamshedpur. I've done all my schooling from this city. I was always fascinated about TECHNOLOGY.Therefore, When I comleted my std X, I chose Computer as one of my subjects for my Std. XII. I developed more interst in coding 
-      So, I further decided to pursue for Btech In Computer Science Branch. This is what I'm doing presently and trying to learn new skills in Technical field.
+      So, I further decided to pursue for Btech In Computer Science Branch. Then I pursued my BTech degree from ITER College, SOA University, Bhubneswar. Currently I'm working as Full Stack Developer at Virtusa Pvt Ltd and trying to learn new skills in Technical field.
       Things that I'm learnt till now is just like a bucket of water in an Ocean. For that reason I would Love to explore this vast ocean of knowledge my whole life.   
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll} >

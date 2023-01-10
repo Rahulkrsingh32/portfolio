@@ -14,7 +14,7 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Hi! I'm RAHUL KR. SINGH and I'm a student Persuing Btech degree in Computer Science branch from ITER, SOA UNIVERSITY, BHUBNESWAR.
+        Hi! I'm RAHUL KR. SINGH and I'm currently working as Full Stack Java Developer at Virtusa Pvt Ltd. I've Persued Btech degree in Computer Science branch from ITER, SOA UNIVERSITY, BHUBNESWAR.
       </SectionText>
       <Button ><Link href="#about" ><Span>Learn more</Span></Link></Button>
     </LeftSection>
